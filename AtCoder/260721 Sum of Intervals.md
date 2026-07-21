@@ -1,4 +1,4 @@
-# [AtCoder] Subarray Sum Count
+# [AtCoder] Sum of Intervals
 
 > AtCoder | 누적합, 해시맵 | C++
 
